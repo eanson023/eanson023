@@ -8,12 +8,6 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **golang**
-
-- 📫 How to reach me **eanson023@qq.com**
-
-- 📄 Know about my experiences [http://www.eanson.org](http://www.eanson.org)
-
 <hr>
 
 <h3 align="center">保持平常心，代码换黄金</h3>
