@@ -1,17 +1,22 @@
 ![png](trap.png)
 
 
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=eanson023&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eanson023" />
+  </a>
+</p>
+
 - 🌱 I’m currently learning **golang**
 
 - 📫 How to reach me **eanson023@qq.com**
 
 - 📄 Know about my experiences [http://www.eanson.org](http://www.eanson.org)
 
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eanson023&show_icons=true" alt="eanson023" /></p>
+<h3 align="center">保持平常心，代码换黄金</h3>
 
 <!--
 **eanson023/eanson023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
