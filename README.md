@@ -1,4 +1,3 @@
-![sibei&wanggang](tisw.png)
 
 
 <p>
@@ -10,7 +9,7 @@
 
 <hr>
 
-<h3 align="center">保持平常心，代码换黄金</h3>
+<h3 align="center">考研中...</h3>
 
 <!--
 **eanson023/eanson023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
